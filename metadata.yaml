@@ -1,0 +1,27 @@
+_repo: The-Lost-Child_25404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25404-h/images/img.cover.jpg
+creator:
+  author:
+    agent_name: Kingsley, Henry
+    birthdate: 1830
+    deathdate: 1876
+    gutenberg_agent_id: '1304'
+    url: http://www.gutenberg.org/2009/agents/1304
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Kingsley
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missing children -- Australia -- Juvenile fiction'
+- !lcc 'PR'
+title: The Lost Child
+url: http://www.gutenberg.org/ebooks/25404
