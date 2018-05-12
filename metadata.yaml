@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1304
     wikipedia: http://en.wikipedia.org/wiki/Henry_Kingsley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25404#The-Lost-Child
 gutenberg_issued: '2008-05-09'
 gutenberg_type: Text
 identifiers:
